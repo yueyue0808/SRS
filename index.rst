@@ -16,9 +16,4 @@
    非功能性需求    
    测试
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
